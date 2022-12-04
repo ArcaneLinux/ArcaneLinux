@@ -1,8 +1,5 @@
 # Arcane Linux 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Arcane Linux
+![Arcane Linux Banner](https://github.com/ArcaneLinux/ArcaneBranding/blob/main/Branding/Arcane%20Banner.png)
 - 📫 How to reach me: You can check out my persona page @RRSolomon or on Twitter @HandsomeWryter
 - ⚡ Fun fact: I like Linux :D
 
