@@ -1,4 +1,4 @@
-# Arcane Linux 👋
+# 🐧Arcane Linux 🐧
 ![Arcane Linux Banner](https://github.com/ArcaneLinux/ArcaneBranding/blob/main/Branding/Arcane%20Banner.png)
 
 Arcane Linux (I just call it Arcane, tbh) is a custom Arch Linux install that will be game ready out of the box. This is mainly for my purposes. It was put together so I can ust install Arch without needing to constantly be reinstalling everything all at once. Yes, I know I could just write my own deploy script, but this should be much easier in the long run. Work smarter, not harder...
